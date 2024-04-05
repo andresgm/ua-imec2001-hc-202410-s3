@@ -14,8 +14,6 @@ El hombre hizo caso. Tomó algunas piedritas del suelo y las guardó en su bolsi
 
 ## Instalación y configuración de ambiente de cómputo
 
-#### Distribución y Ambiente
-
 Se recomienda instalar [Miniforge](https://github.com/conda-forge/miniforge) como ambiente para instalar Python y las librerías necesarias para la ejecución de los protocolos. Miniforge es una distribución de Python y el administrador de paquetes `conda`, permite fácilmente la configuración de ambientes y la instalación de paquetes desde el repositorio `conda-forge`.
 
 Durante la instalación utilice las opciones recomendadas en las `Advanced Installation Options` como se muestra a continuación.
